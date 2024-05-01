@@ -1,4 +1,4 @@
-<h1>Hi, I'm Latasha! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://uxfol.io/Latashaseth-UXDesigner">UX/UI Designer</a></h1>
+<h1>Hi, I'm Latasha! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>| <a href="https://uxfol.io/Latashaseth-UXDesigner">UX/UI Designer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
