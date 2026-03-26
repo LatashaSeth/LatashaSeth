@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Azure/Cloud Soc
 
-- **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/LatashaSeth/Cloud-Soc)**
   
 
 <hr/>
