@@ -15,7 +15,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Azure/Cloud-Soc
 
 - **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/LatashaSeth/Cloud-Soc)**
-  
 
 <hr/>
 
