@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-## 🚨 Azure/Cloud Soc
+## 🚨 Azure/Cloud-Soc
 
 - **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/LatashaSeth/Cloud-Soc)**
   
