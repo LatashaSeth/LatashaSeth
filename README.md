@@ -17,6 +17,11 @@ vulnerability management, threat detection, SIEM engineering, and STIG remediati
 
 - **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/LatashaSeth/Cloud-Soc)**
 
+## 🛠️ Tools & Technologies
+Tenable · Microsoft Sentinel · Microsoft Defender for Endpoint · 
+Azure · KQL · PowerShell · NIST 800-53 · DISA STIG · CVSS · 
+POA&M · MITRE ATT&CK
+
 <hr/>
 
 ## 🤳 Connect With Me
