@@ -14,7 +14,7 @@ vulnerability management, threat detection, SIEM engineering, and STIG remediati
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/LatashaSeth/threat-hunting-scenario-tor)**
-- **[Live Threat Hunting Scenario (Credential Compromise) Coming Soon...](Link)**
+- **[Live Threat Hunting (Credential Compromise) Coming Soon...](https://github.com/LatashaSeth/threat-hunt-credential-compromise/blob/main/README.md)**
 
 ## 🚨 Azure/Cloud-Soc
 
