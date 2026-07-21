@@ -7,7 +7,7 @@ vulnerability management, threat detection, SIEM engineering, and STIG remediati
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/LatashaSeth/Vulnerability-Management-Program)**
-  Policy development, Tenable scanning, six remediation cycles, and a NIST 800-53–mapped POA&M with formal exceptions and risk acceptance.
+   - Policy development, Tenable scanning, six remediation cycles, and a NIST 800-53–mapped POA&M with formal exceptions and risk acceptance.
   
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/LatashaSeth/programmatic-vulnerability-remediations)**
 
