@@ -15,10 +15,6 @@ vulnerability management, threat detection, SIEM engineering, and STIG remediati
 - **[STIG Remediation Script Library (DISA STIG Hardening — Windows 11)](https://github.com/LatashaSeth/Vulnerability-Management-Program/blob/main/STIGS/README.md)**
    - A library of PowerShell scripts that remediate DISA STIG findings on Windows 11, each mapped to its STIG ID with built-in validation.
   
-- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/LatashaSeth/programmatic-vulnerability-remediations)**
-
-- **[STIG Remediation Script Library (DISA STIG Hardening — Windows 11)](https://github.com/LatashaSeth/Vulnerability-Management-Program/blob/main/STIGS/README.md)**
-
 
 ## 🚨 Threat Hunting and Security Operations
 
