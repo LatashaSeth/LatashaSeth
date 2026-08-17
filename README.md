@@ -11,10 +11,13 @@ vulnerability management, threat detection, SIEM engineering, and STIG remediati
   
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/LatashaSeth/programmatic-vulnerability-remediations)**
 
+- **[STIG Remediation Script Library (DISA STIG Hardening — Windows 11)](Link)**
+
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/LatashaSeth/threat-hunting-scenario-tor)**
-- **[Live Threat Hunting (Credential Compromise) Coming Soon...](https://github.com/LatashaSeth/threat-hunt-credential-compromise/blob/main/README.md)**
+- **[Live Threat Hunting (Credential Compromise)](https://github.com/LatashaSeth/threat-hunt-credential-compromise/blob/main/README.md)**
 
 ## 🚨 Azure/Cloud-Soc
 
