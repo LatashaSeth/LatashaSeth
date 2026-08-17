@@ -8,6 +8,12 @@ vulnerability management, threat detection, SIEM engineering, and STIG remediati
 
 - **[Vulnerability Management Program Implementation](https://github.com/LatashaSeth/Vulnerability-Management-Program)**
    - Policy development, Tenable scanning, six remediation cycles, and a NIST 800-53–mapped POA&M with formal exceptions and risk acceptance.
+ 
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/LatashaSeth/programmatic-vulnerability-remediations)**
+   - PowerShell scripts that automate the remediation of common system vulnerabilities and misconfigurations.
+  
+- **[STIG Remediation Script Library (DISA STIG Hardening — Windows 11)](https://github.com/LatashaSeth/Vulnerability-Management-Program/blob/main/STIGS/README.md)**
+   - A library of PowerShell scripts that remediate DISA STIG findings on Windows 11, each mapped to its STIG ID with built-in validation.
   
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/LatashaSeth/programmatic-vulnerability-remediations)**
 
