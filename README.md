@@ -11,7 +11,7 @@ vulnerability management, threat detection, SIEM engineering, and STIG remediati
   
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/LatashaSeth/programmatic-vulnerability-remediations)**
 
--**[STIG Remediation Script Library (DISA STIG Hardening — Windows 11)](https://github.com/LatashaSeth/Vulnerability-Management-Program/tree/main/STIGS)**
+- **[STIG Remediation Script Library (DISA STIG Hardening — Windows 11)](https://github.com/LatashaSeth/Vulnerability-Management-Program/tree/main/STIGS)**
 
 
 ## 🚨 Threat Hunting and Security Operations
